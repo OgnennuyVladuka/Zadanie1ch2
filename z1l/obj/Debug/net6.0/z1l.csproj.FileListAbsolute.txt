@@ -1,0 +1,14 @@
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\bin\Debug\net6.0\z1l.exe
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\bin\Debug\net6.0\z1l.deps.json
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\bin\Debug\net6.0\z1l.runtimeconfig.json
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\bin\Debug\net6.0\z1l.dll
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\bin\Debug\net6.0\z1l.pdb
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\obj\Debug\net6.0\z1l.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\obj\Debug\net6.0\z1l.AssemblyInfoInputs.cache
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\obj\Debug\net6.0\z1l.AssemblyInfo.cs
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\obj\Debug\net6.0\z1l.csproj.CoreCompileInputs.cache
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\obj\Debug\net6.0\z1l.dll
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\obj\Debug\net6.0\refint\z1l.dll
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\obj\Debug\net6.0\z1l.pdb
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\obj\Debug\net6.0\z1l.genruntimeconfig.cache
+C:\Users\ROGE\Desktop\проекты по программированию\lab5\z1l\obj\Debug\net6.0\ref\z1l.dll
